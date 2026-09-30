@@ -4,10 +4,6 @@
 
 A beginner-friendly Python project that loads a local CSV file, inspects it, cleans common data quality issues (missing values, duplicates, whitespace), and saves a cleaned CSV. The same cleaning logic is also demonstrated in a Jupyter notebook and a simple Streamlit web demo.
 
-## Internship Task
-
-**Week 1 of an 8-week path** – develop practical understanding of Python programming fundamentals and data loading workflows.
-
 ### Learning Topics
 - Python data structures
 - pandas DataFrames
